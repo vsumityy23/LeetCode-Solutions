@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 238 (1.3%)
+- **Completed:** 4 / 238 (1.7%)
 
 ---
 
@@ -269,7 +269,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 ### 📂 PART  5: INTENTIONAL FAILURE ZONE Maximu
 - [ ] brute force
 - [ ] Count Submatrices with All Ones
-- [ ] Maximal Rectangle
+- [x] [Maximal Rectangle](./C++/Hard/85. Maximal Rectangle/)
 - [ ] Number of Islands
 
 ### 📂 PART  1: LINKED LISTS Topics Covered: 1.
