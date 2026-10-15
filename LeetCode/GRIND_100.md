@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 100 (8.0%)
+- **Completed:** 9 / 100 (9.0%)
 
 ---
 
@@ -85,7 +85,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 
 ### 📂 Graph & Trie
 - [ ] Number of Islands
-- [ ] Course Schedule
+- [x] [Course Schedule](./C++/Medium/207. Course Schedule/)
 - [ ] Implement Trie (Prefix Tree)
 
 ### 📂 Dynamic Programming
