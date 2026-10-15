@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 238 (0.4%)
+- **Completed:** 3 / 238 (1.3%)
 
 ---
 
@@ -131,7 +131,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] 3Sum
 - [ ] Kth Largest Element in an Array
 - [ ] Find the Duplicate Number
-- [ ] Next Greater Element I
+- [x] [Next Greater Element I](./C++/Easy/496. Next Greater Element I/)
 - [ ] Three Elements to Maximize Expression
 - [ ] K Multiplications
 - [ ] Multiply and Find Array Value
@@ -300,7 +300,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Valid Parentheses
 - [ ] Decode String
 - [ ] 132 Pattern
-- [ ] Next Greater Element I
+- [x] [Next Greater Element I](./C++/Easy/496. Next Greater Element I/)
 - [ ] Next Greater Element II
 - [ ] Design Browser History
 - [ ] Clumsy Factorial
